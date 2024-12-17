@@ -1,0 +1,10 @@
+<PROJECT_SET>
+	<PROJECT center_name="testing" alias="p23896">
+		<NAME>Private Test Project 1</NAME>
+		<TITLE>Test Project - do not use data</TITLE>
+		<DESCRIPTION>Test Project - do not use data</DESCRIPTION>
+		<SUBMISSION_PROJECT>
+         <SEQUENCING_PROJECT/>
+      	</SUBMISSION_PROJECT>
+	</PROJECT>
+</PROJECT_SET>

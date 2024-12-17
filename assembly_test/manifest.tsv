@@ -1,0 +1,11 @@
+STUDY	REPLACE
+SAMPLE	REPLACE
+ASSEMBLYNAME	test
+ASSEMBLY_TYPE	isolate
+COVERAGE	10
+PROGRAM	Unknown
+PLATFORM	Unknown
+FLATFILE	assembly_test/sequences.embl.gz
+CHROMOSOME_LIST	assembly_test/chromosome_list.gz
+DESCRIPTION	Test submission do not use
+MOLECULETYPE	genomic DNA
